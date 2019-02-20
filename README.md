@@ -1,8 +1,8 @@
 # Artificial-Intelligence-Pacman-Project-Kakuro
 
-##Project 1:  
-\tlink: http://ai.berkeley.edu/search.html  
-\tAutograder score: 26/25  
+Project 1:  
+ [Link to Project 1](http://ai.berkeley.edu/search.html "Project 1: Berkeley")    
+ Autograder score: 26/25  
 ##Project 2:  
   -link: http://ai.berkeley.edu/multiagent.html  
   -Autograder score: 25/25  
